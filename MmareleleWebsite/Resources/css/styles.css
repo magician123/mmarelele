@@ -1,0 +1,28 @@
+
+/*-- Landing Page --*/
+
+#title{
+    background-color: #56556E;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+h1{
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: azure;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.heading{
+    margin-top: 200px;
+}
+.btnHeading{
+    margin-top: 50px;
+}
+
+.imageHeading{ width: 60%; transform: rotate(25deg); -webkit-transform: rotate(25deg); -moz-transform: rotate(25deg); -ms-transform: rotate(25deg); -o-transform: rotate(25deg);
+}
